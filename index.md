@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 啊~我终于有属于自己的网页了~~~~~~ 哈哈哈哈，开心开心！！！！
 
 You can use the [editor on GitHub](https://github.com/lovingyuan/wwq/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
